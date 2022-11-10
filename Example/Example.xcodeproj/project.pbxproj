@@ -16,7 +16,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		A0DEFEB2291D2C1A000C5DEE /* WebView-main 3 */ = {isa = PBXFileReference; lastKnownFileType = wrapper; name = "WebView-main 3"; path = "../../WebView-main 3"; sourceTree = "<group>"; };
 		F8311D2E27ACD1AD0073691F /* Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F8311D3127ACD1AD0073691F /* ExampleApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExampleApp.swift; sourceTree = "<group>"; };
 		F8311D3327ACD1AD0073691F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -77,7 +76,6 @@
 		F8311D3F27ACD1EC0073691F /* Packages */ = {
 			isa = PBXGroup;
 			children = (
-				A0DEFEB2291D2C1A000C5DEE /* WebView-main 3 */,
 			);
 			name = Packages;
 			sourceTree = "<group>";
