@@ -1,6 +1,6 @@
 The MIT License (MIT)
 
-Copyright ©️ 2020 Ben Chatelain
+Copyright ©️ 2020 Lucas
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the Software), to deal
